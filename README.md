@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ASO-CODE/Frontend-Mentor-Stats-preview-card-component](https://github.com/ASO-CODE/Frontend-Mentor-Stats-preview-card-component)
+- Live Site URL: [https://aso-code-stats-preview-card.netlify.app/](https://aso-code-stats-preview-card.netlify.app/)
 
 ## My process
 
